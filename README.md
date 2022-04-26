@@ -12,4 +12,4 @@
 ~~本项目因为经费问题，已经停止开发与维护。~~
 
 另外 Linux 下已经有一条命令也可以提供每日一句。
-fortune / cowfortune 
+`fortune` / `cowfortune`
